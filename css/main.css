@@ -49,3 +49,7 @@ z-index: 1;
 .ryu-cool{
   background-image: url('../images/ryu-cool.gif');
 }
+.hulk-ryu{
+    filter: hue-rotate(90deg);
+  
+}
